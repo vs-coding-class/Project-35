@@ -4,8 +4,8 @@ var foodObject,lastFed,timeReader;
 var feedDog,addFood;
 
 function preload(){
-  dogRegular=loadImage("images/dogImg.png");
-  dogHappy=loadImage("images/dogImg1.png");
+  dogRegular=loadImage("dogImg.png");
+  dogHappy=loadImage("dogImg1.png");
 }
 
 function setup() {
